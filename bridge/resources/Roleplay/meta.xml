@@ -2,6 +2,7 @@
   <info name="Roleplay" author="LiveYourDream" type="script" />
 
 
+  <assembly ref="Microsoft.Csharp.dll"/>
   <!-- MySql -->
   <assembly ref="MySql.Data.dll"/>
   <assembly ref="System.Data.Common.dll"/>
