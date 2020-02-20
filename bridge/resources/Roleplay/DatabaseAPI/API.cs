@@ -12,9 +12,9 @@ namespace Roleplay.DatabaseAPI
         #region Settings
         public static readonly string HOST = "localhost";
         public static readonly int PORT = 3306;
-        public static readonly string DATABASE = "ragemp";
-        public static readonly string USERNAME = "root";
-        public static readonly string PASSWORD = "";
+        public static readonly string DATABASE = "dream_rage";
+        public static readonly string USERNAME = "dream_rage";
+        public static readonly string PASSWORD = "pJyTZEhV3oAH";
         public static readonly string SSL_MODE = "none";
 
         // Die Anzahl an Verbindungen, die gleichzeitig offen sind.
