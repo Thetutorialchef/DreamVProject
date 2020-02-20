@@ -1,7 +1,7 @@
 ﻿<meta>
   <info name="Roleplay" author="LiveYourDream" type="script" />
-  
-  
+
+
   <!-- MySql -->
   <assembly ref="MySql.Data.dll"/>
   <assembly ref="System.Data.Common.dll"/>
