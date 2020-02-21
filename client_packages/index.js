@@ -1,5 +1,6 @@
 require("Admin/tp.js");
 require("Login/index.js");
+require('nativeui');
 require('Interaction/index.js');
 require('Vehicles/index.js');
 require('CarShops/index.js');
@@ -7,10 +8,10 @@ require('Inventory');
 require('Vehicles/garage.js');
 require('Vehicles/vehenter.js');
 require('Vehicles/speedometer.js');
-require('nativeui');
 require('charcreator');
 require("HUD");
 require('Player/death.js');
+require('Barber/index.js');
 require('playerlist/index.js');
 require('dienstmarken/lspd/index.js');
 require('Vehicles/vehiclekey/index.js');
@@ -32,3 +33,9 @@ require("Kleidung/index.js");
 require("Staat/index.js");
 require("Staat/Ticket/index.js");
 require("Fraktionen/LSPD/index.js");
+require('noclip/index.js');
+require("tablet/tablet.js");
+require('vehSpawner/index.js');
+
+
+mp.events.call('setDiscordStatus', 'Dream:V', 'German Roleplay');

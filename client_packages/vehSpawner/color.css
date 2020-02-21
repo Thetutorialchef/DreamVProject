@@ -1,0 +1,52 @@
+#svg1 {
+    border-radius: 5px 0px 0px 5px;
+}
+#svg2 {
+	position: absolute;
+	top: -98px;
+	left: 5px;
+    border-radius: 0px 5px 5px 0px;
+}
+#svg3 {
+    border-radius: 5px 0px 0px 5px;
+}
+#svg4 {
+	position: absolute;
+	top: -98px;
+	left: 5px;
+    border-radius: 0px 5px 5px 0px;
+}
+#picker {
+	position: relative;
+    border-radius: 6px 0px 0px 6px;
+	left: -8px;
+    width: 149px;
+    height: 92px;
+    display:inline-block;
+}
+#slider {
+    position: absolute;
+    left: 157px;
+    width: 15px;
+    height: 92px;
+    display:inline-block;
+}
+#picker2 {
+	position: relative;
+    border-radius: 6px 0px 0px 6px;
+	left: -8px;
+    width: 149px;
+    height: 92px;
+    display:inline-block;
+}
+#slider2 {
+    position: absolute;
+    left: 157px;
+    width: 15px;
+    height: 92px;
+    display:inline-block;
+}
+#hex {
+    border:none;
+    background:inherit;
+}

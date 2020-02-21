@@ -59,35 +59,25 @@ body {
     border-radius: 0.1vw;
     top: 3.5vw;
     left: 90%;
+    height: 10px;
 }
 
 .MoneyAnzeige {
-    background: rgba(0,0,0,0.8);
+    background: rgba(255, 255, 255, 0);
     position: absolute;
-    padding: 0.3vw;
-    color: #fff;
-    width: 8vw;
+    padding: 0.2vw;
+    color: rgb(29, 177, 49);
+    width: 3px;
     border-radius: 0.1vw;
-    top: 5vw;
-    left: 90%;
-}
-
-.BankAnzeige {
-    background: rgba(0,0,0,0.8);
-    position: absolute;
-    padding: 0.3vw;
-    color: #fff;
-    width: 8vw;
-    border-radius: 0.1vw;
-    top: 6.49vw;
-    left: 90%;
+    top: 4vw;
+    left: 97.2%;
 }
 
 .WantedAnzeige {
     background: rgba(0,0,0,0.8);
     position: absolute;
     padding: 0.3vw;
-    color: #fff;
+    color: rgb(238, 255, 0);
     width: 8vw;
     border-radius: 0.1vw;
     top: 7.98vw;
@@ -102,8 +92,8 @@ body {
     color: #fff;
     width: 1.5vw;
     border-radius: 0.1vw;
-    top: 9.5vw;
-    left: 96.5%;
+    top: 96.5%;
+    left: 16.5%;
 }
 
 .name {
@@ -112,7 +102,7 @@ body {
 	text-align: center;
     font-family: Arial;
     font-size: 0.75vw;
-    top: 0.3vw;
+    top: 0.4vw;
     font-weight: 600;
     letter-spacing: -0.01vw;
     font-family: Arial, Helvetica, sans-serif;
@@ -123,8 +113,8 @@ body {
     position: absolute;
     right: 0.5vw;
     font-family: Arial;
-    font-size: 0.75vw;
-    top: 0.3vw;
+    font-size: 1.20vw;
+    top: 0.05vw;
     font-weight: 600;
     letter-spacing: -0.01vw;
     font-family: Arial, Helvetica, sans-serif;
@@ -153,9 +143,9 @@ body {
 }
 
 .vOn {
-    color: green;
+    color: rgb(29, 177, 49);
 }
 
 .vOff {
-    color: red;
+    color: rgb(224, 67, 67);
 }

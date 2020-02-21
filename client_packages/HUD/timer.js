@@ -8,7 +8,7 @@ Date.prototype.today = function() {
 
 function setTime() {
     var currentdate = new Date();
-    $("#time").text(currentdate.today() + " - " + currentdate.timeNow());
+    $("#time").text(currentdate.today() + " | " + currentdate.timeNow());
 }
 
 
